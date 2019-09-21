@@ -3,7 +3,7 @@ I was sick during the week. Thought I'd make them when I felt better. I'm stil s
 So that sucks.
 All greens should be solved. Some yellows and reds.
 None of the extra assignments have been completed.
-Pretty much all of the "Explain" parts are poorly answered. 
+Pretty much all of the "Explain" parts are poorly answered.
 
 #### Tuesday
 
