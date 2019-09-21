@@ -33,8 +33,6 @@ public class Address implements Serializable {
     private String street;
     private String city;
     private List<Customer> customers;
-    
-    
 
     public Address() {
     }
@@ -66,6 +64,14 @@ public class Address implements Serializable {
 
     public void setId(int id) {
         this.id = id;
+    }
+
+    public List<Customer> getCustomers() {
+        return customers;
+    }
+
+    public void setCustomers(List<Customer> customers) {
+        this.customers = customers;
     }
 
 }

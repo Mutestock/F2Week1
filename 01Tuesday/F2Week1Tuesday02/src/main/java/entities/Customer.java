@@ -15,11 +15,18 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
 
 /**
  *
  * @author Henning
  */
+@NamedQueries({
+    @NamedQuery(name = "Customer.getByID", query = "SELECT c FROM Customer c where c.id = :id"),
+    @NamedQuery(name = "Student.findAll", query = "SELECT c FROM Customer c")
+})
+
 @Entity
 public class Customer implements Serializable {
 
@@ -30,12 +37,12 @@ public class Customer implements Serializable {
     private int id;
     private String firstName;
     private String lastName;
-    @ManyToMany
+    @ManyToMany()
     @JoinTable(
             name = "Address/Customer",
             joinColumns = @JoinColumn(name = "CustID", referencedColumnName = "ID"),
             inverseJoinColumns = @JoinColumn(name = "AddressID", referencedColumnName = "ID"))
-    private List<Address> add;
+    private List<Address> addresses;
 
     public Customer() {
     }
@@ -67,6 +74,14 @@ public class Customer implements Serializable {
 
     public void setId(int id) {
         this.id = id;
+    }
+
+    public List<Address> getAddresses() {
+        return addresses;
+    }
+
+    public void setAddresses(List<Address> addresses) {
+        this.addresses = addresses;
     }
 
 }
