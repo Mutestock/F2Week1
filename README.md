@@ -3,6 +3,7 @@ I was sick during the week. Thought I'd make them when I felt better. I'm stil s
 So that sucks.
 All greens should be solved. Some yellows and reds.
 None of the extra assignments have been completed.
+Pretty much all of the "Explain" parts are poorly answered. 
 
 #### Tuesday
 
@@ -32,6 +33,19 @@ ORM:
 All the greens.
 Didn't make the tests in JUnit. They're in the main method in the test class in misc.
 They're commented out right now. You can uncomment them and test them if you so please.
+
+#### Thursday
+
+Did not make the extra assignment
+
+All of the greens. Not sure whether I solved the red 5. 
+They're all tested in JUnit.
+The program architecture should be pretty straightforward and easy to figure out.
+They should've taught us about the "create entities from database" wizard" from the start.
+Reverse engineering could definitely be a better way of creating all of the relationships, imo.
+
+
+
 
 
 
