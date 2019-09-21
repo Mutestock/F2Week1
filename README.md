@@ -1,5 +1,5 @@
 Although I did complete 'all' the assignments, the final work wasn't up to par with standards. 
-I was sick during the week. Thought I'd make them when I felt better. I'm stil sick though and the assignments bundled up.
+I was sick during the week. Thought I'd make them when I felt better. I'm still sick though and the assignments bundled up.
 So that sucks.
 All greens should be solved. Some yellows and reds.
 None of the extra assignments have been completed.
