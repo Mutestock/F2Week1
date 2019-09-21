@@ -1,4 +1,6 @@
-Although I did complete 'all' the assignments, the final work wasn't up to par with standards.
+Although I did complete 'all' the assignments, the final work wasn't up to par with standards. 
+I was sick during the week. Thought I'd make them when I felt better. I'm stil sick though and the assignments bundled up.
+So that sucks.
 All greens should be solved. Some yellows and reds.
 None of the extra assignments have been completed.
 
@@ -20,9 +22,17 @@ REST:
 All tests
 
 I created all the CRUD endpoints, although update stopped working after the 'Entity with relations' part.
-Although it does exist, it just creates duplicates instead of merging.
+Although it does exist, it just creates duplicates instead of merging (Perhaps coincidentally solving the red objective in a wrong way?) 
 I completed the green part of the exception handling. I honestly just used the classes from the slide. Should be functional.
 The resource tests got messed up after 'Entity with relations'.  I simplified them and they still made problems despite the fact that the endpoints works in postman. Ended up outcommenting them entirely.
 
-
 I didn't create the Persons(plural)DTO class, simply because it isn't necessary. See implementation of endpoint /all
+
+ORM:
+All the greens.
+Didn't make the tests in JUnit. They're in the main method in the test class in misc.
+They're commented out right now. You can uncomment them and test them if you so please.
+
+
+
+
