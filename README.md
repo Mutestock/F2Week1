@@ -2,7 +2,7 @@ Although I did complete 'all' the assignments, the final work wasn't up to par w
 All greens should be solved. Some yellows and reds.
 None of the extra assignments have been completed.
 
-####Tuesday
+#### Tuesday
 
 This assignment felt weird to me. I did complete all the objectives,
 although the format of the assignment was strange. It's was hard
@@ -13,7 +13,7 @@ Also the wizard the assignment kept mentioning didn't show up. Had the figure it
 The program itself reflects this. It's messy.
 Only got messier when they told us to clutter the project further with each step.
 
-####Wednesday
+#### Wednesday
 
 REST:
 
